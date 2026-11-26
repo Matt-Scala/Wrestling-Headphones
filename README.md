@@ -1,21 +1,19 @@
 # Project Name
 
-> Replace this title with the name of your project.
+Wrestling Headphones
 
 ## Project Owner
 
-**Name:** Your Name  
-**Virginia Tech Email:** yourpid@vt.edu
+**Name:** Matthew Scala
+**Virginia Tech Email:** matthewscala3820@vt.edu
 
 ## Project Overview
 
-Provide a clear description of what you are building and the overall goal of the project.
-
-Include enough detail for someone unfamiliar with the project to understand what it does and why you are building it.
+I am building wrestling headgear with integrated headphones. These integrated headphones have Bluetooth capabilities along with a custom patch antenna.
 
 ## What I Hope to Learn
 
-Describe the technical skills, concepts, or experience you hope to gain from completing this project.
+PCB design, patch antenna design, HFSS simulation, RF Analysis(VNA).
 
 ## Design and Implementation
 
